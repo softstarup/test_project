@@ -84,8 +84,5 @@ for ism, tillar in dasturlash.items():
     for til in tillar:
         print(til.upper(), end='')
     print("\n")
-# ishxona={
-#     'ali':
-# }
 
 
